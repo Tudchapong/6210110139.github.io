@@ -22,8 +22,8 @@ title: My Blog
 email: 6210110139@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   This website created for subject 240-302 3SB01
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://6210110139.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/6210110139.github.io" # the subpath of your site, e.g. /blog
+url: "https://tudchapong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Tudchapong
 
 # Build settings
